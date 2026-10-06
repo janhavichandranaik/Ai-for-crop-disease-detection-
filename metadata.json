@@ -1,0 +1,8 @@
+{
+  "name": "AgriShield - AI Crop Disease Detection & Agronomy Advisor",
+  "description": "Instant leaf symptom scanning, pathogen diagnosis, severity scoring, biological and conventional treatments, and field health monitoring powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

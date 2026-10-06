@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "AgriShield AI - Crop Disease & Agronomy Advisor",
+  "short_name": "AgriShield",
+  "description": "Instant crop leaf disease detection, fertilizer advisor, and offline agronomy field guide for farmers.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0c0a09",
+  "theme_color": "#059669",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
